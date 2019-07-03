@@ -1,0 +1,5 @@
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\EF_DB_Layer_\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\EF_DB_Layer_\obj\Debug\netcoreapp2.1\EF_DB_Layer_.csprojAssemblyReference.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\EF_DB_Layer_\obj\Debug\netcoreapp2.1\EF_DB_Layer_.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\EF_DB_Layer_\obj\Debug\netcoreapp2.1\EF_DB_Layer_.AssemblyInfoInputs.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\EF_DB_Layer_\obj\Debug\netcoreapp2.1\EF_DB_Layer_.AssemblyInfo.cs

@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SportsClubModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/SportsClubModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SportsClubModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SportsClubModel/1.0.0": {
+      "type": "project",
+      "path": "../SportsClubModel_/SportsClubModel.csproj",
+      "msbuildProject": "../SportsClubModel_/SportsClubModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "SportsClubModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\magi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj",
+      "projectName": "EF_DB_Layer",
+      "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj",
+      "packagesPath": "C:\\Users\\magi\\.nuget\\packages\\",
+      "outputPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\magi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj": {
+              "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
