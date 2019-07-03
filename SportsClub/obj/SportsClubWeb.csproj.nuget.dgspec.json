@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClub\\SportsClubWeb.csproj": {}
+  },
+  "projects": {
+    "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj",
+        "projectName": "EF_DB_Layer",
+        "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj",
+        "packagesPath": "C:\\Users\\magi\\.nuget\\packages\\",
+        "outputPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj": {
+                "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj",
+        "projectName": "SportsClubModel",
+        "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj",
+        "packagesPath": "C:\\Users\\magi\\.nuget\\packages\\",
+        "outputPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClub\\SportsClubWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClub\\SportsClubWeb.csproj",
+        "projectName": "SportsClubWeb",
+        "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClub\\SportsClubWeb.csproj",
+        "packagesPath": "C:\\Users\\magi\\.nuget\\packages\\",
+        "outputPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClub\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\magi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj": {
+                "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\EF_DB_Layer_\\EF_DB_Layer.csproj"
+              },
+              "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj": {
+                "projectPath": "F:\\CORSO\\Progetto\\18-03-2019_EndCorso\\SportsClubForte\\SportsClubModel_\\SportsClubModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

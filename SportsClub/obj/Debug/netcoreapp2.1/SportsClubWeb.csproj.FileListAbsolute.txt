@@ -1,0 +1,178 @@
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 4\Downloads\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Progetto\Aggiornato\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\stefa\OneDrive\Desktop\Aggiornato_26-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+C:\Users\Allievo 10\Desktop\Aggiornato_27-02_Ste\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\InvestiQui-PC\Desktop\SportsClubForte-master\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\frasa\Desktop\Aggiornato_28-02\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+E:\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_28-02_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo 10\Documents\NM\Aggiornato_01-03_EndDay\SportsClubForte-master\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.deps.json
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.json
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.runtimeconfig.dev.json
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubWeb.pdb
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.dll
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.dll
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\EF_DB_Layer.pdb
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\bin\Debug\netcoreapp2.1\SportsClubModel.pdb
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Allievo 10\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CopyComplete
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csprojAssemblyReference.cache
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cache
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.RazorAssemblyInfo.cs
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfoInputs.cache
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.AssemblyInfo.cs
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.dll
+C:\Users\stefa\Source\Repos\frasabbi\SportsClubForte\SportsClub\obj\Debug\netcoreapp2.1\SportsClubWeb.pdb
